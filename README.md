@@ -1,9 +1,24 @@
 HANDWRITTEN CHARACTER RECOGNITION:
 The Handwritten Character Recognition project is an innovative application of machine learning and deep learning techniques aimed at developing a robust Convolutional Neural Network (CNN) model using TensorFlow and Keras. The primary objective of this project is to accurately recognize English alphabets from A-Z in handwritten form. By leveraging a comprehensive dataset containing a large number of images of handwritten English alphabets, the project aims to create a powerful model capable of accurately detecting and recognizing characters from input images.
 
-How to run
-To run this project you need Python and Jupyter Notebook. Also you will need to install all the python libraries specified in the "README.md" inside the "Notebook" folder.
-REQUIRMENTS:
+# Project Name
+
+## Description
+
+Brief description of your project goes here.
+
+## Prerequisites
+
+- Python (latest version)
+- Jupyter Notebook (for development and experimentation)
+
+## Installation
+
+To install the required Python libraries, navigate to the "Notebook" folder and run the following command:
+
+
+pip install -r requirements.txt
+
 Python (latest version), Jupyter Notebook (for development and experimentation)
 
 DATA SET:
@@ -11,3 +26,4 @@ The project utilizes the A-Z Handwritten Alphabets dataset provided by Sachin Pa
 
 DATASET LINK:
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+```bash
