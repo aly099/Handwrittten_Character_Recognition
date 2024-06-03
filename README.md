@@ -14,12 +14,12 @@ The Handwritten Character Recognition project is an innovative application of ma
 
 ## INSTALLATION
 
-To install the required Python libraries, navigate to the "Notebook" folder and run the following command:
+- To install the required Python libraries, navigate to the "Notebook" folder and run the following command:
 
 
-pip install -r requirement.txt
+- pip install -r requirement.txt
 
-Python (latest version), Jupyter Notebook (for development and experimentation)
+- Python (latest version), Jupyter Notebook (for development and experimentation)
 
 ## DATA SET:
 The project utilizes the A-Z Handwritten Alphabets dataset provided by Sachin Patel. This dataset, available in CSV format, contains 372,450 images of alphabets, each with a size of 28x28 pixels. The dataset serves as the primary source of training data for the CNN model.
