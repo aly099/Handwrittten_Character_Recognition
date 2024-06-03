@@ -4,9 +4,6 @@ The Handwritten Character Recognition project is an innovative application of ma
 REQUIRMENTS:
 Python (latest version), Jupyter Notebook (for development and experimentation)
 
-LIBRARIES:
-NumPy, OpenCV, Keras, TensorFlow, Matplotlib, Pandas
-
 DATA SET:
 The project utilizes the A-Z Handwritten Alphabets dataset provided by Sachin Patel. This dataset, available in CSV format, contains 372,450 images of alphabets, each with a size of 28x28 pixels. The dataset serves as the primary source of training data for the CNN model.
 
