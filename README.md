@@ -1,11 +1,11 @@
-HANDWRITTEN CHARACTER RECOGNITION:
-The Handwritten Character Recognition project is an innovative application of machine learning and deep learning techniques aimed at developing a robust Convolutional Neural Network (CNN) model using TensorFlow and Keras. The primary objective of this project is to accurately recognize English alphabets from A-Z in handwritten form. By leveraging a comprehensive dataset containing a large number of images of handwritten English alphabets, the project aims to create a powerful model capable of accurately detecting and recognizing characters from input images.
-
-# Project Name
+# HANDWRITTEN CHARACTER RECOGNITION:
 
 ## DESCRIPTION
 
 Brief description of your project goes here.
+
+The Handwritten Character Recognition project is an innovative application of machine learning and deep learning techniques aimed at developing a robust Convolutional Neural Network (CNN) model using TensorFlow and Keras. The primary objective of this project is to accurately recognize English alphabets from A-Z in handwritten form. By leveraging a comprehensive dataset containing a large number of images of handwritten English alphabets, the project aims to create a powerful model capable of accurately detecting and recognizing characters from input images.
+
 
 ## PREREQUISITES
 
