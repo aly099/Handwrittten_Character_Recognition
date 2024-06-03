@@ -9,8 +9,8 @@ Brief description of your project goes here.
 
 ## PREREQUISITES
 
-- [Python (latest version)](https://www.python.org/)
-- [Jupyter Notebook (for development and experimentation)](https://jupyter.org/)
+- [Python (latest version)] (https://www.python.org/)
+- [Jupyter Notebook (for development and experimentation)] (https://jupyter.org/)
 
 ## INSTALLATION
 
