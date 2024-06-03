@@ -14,8 +14,7 @@ The Handwritten Character Recognition project is an innovative application of ma
 
 ## INSTALLATION
 
-- To install the required Python libraries, navigate to the "Notebook" folder and run the following command:
-
+To install the required Python libraries, navigate to the "Notebook" folder and run the following command:
 
 - pip install -r requirement.txt
 
