@@ -3,16 +3,16 @@ The Handwritten Character Recognition project is an innovative application of ma
 
 # Project Name
 
-## Description
+## DESCRIPTION
 
 Brief description of your project goes here.
 
-## Prerequisites
+## PREREQUISITES
 
 - Python (latest version)
 - Jupyter Notebook (for development and experimentation)
 
-## Installation
+## INSTALLATION
 
 To install the required Python libraries, navigate to the "Notebook" folder and run the following command:
 
@@ -21,9 +21,9 @@ pip install -r requirements.txt
 
 Python (latest version), Jupyter Notebook (for development and experimentation)
 
-DATA SET:
+## DATA SET:
 The project utilizes the A-Z Handwritten Alphabets dataset provided by Sachin Patel. This dataset, available in CSV format, contains 372,450 images of alphabets, each with a size of 28x28 pixels. The dataset serves as the primary source of training data for the CNN model.
 
-DATASET LINK:
+## DATASET LINK:
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 ```bash
